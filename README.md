@@ -28,7 +28,7 @@ Images: High-resolution design showcase images
 
 ## Project Structure
 <pre>
-livespace-interior-design/
+interior_Design_React/
 │── public/              # Static assets
 │── src/
 │   ├── components/      # Reusable UI components (Navbar, Modal, etc.)
@@ -45,13 +45,13 @@ livespace-interior-design/
 ## Installation & Setup
 1 Clone the repository:
 
-git clone https://github.com/yourusername/livespace-interior-design.git
+git clone https://github.com/sakshipatil0717/Interior_Design_React.git
 
 ---
 
 2 Navigate into the project folder:
 
-cd livespace-interior-design
+cd Interior_Design_React
 
 ---
 3 Install dependencies:
